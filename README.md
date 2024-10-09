@@ -1,4 +1,4 @@
-# 🎮 MacroTTT
+# 🎮 MacroTTT (Tic-Tac-Toe)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -7,7 +7,7 @@ A implementation of the classic Tic-Tac-Toe game built with Rust and the Macroqu
 
 ## 🎥 Preview
 
-![MacroTTT Gameplay](https://raw.githubusercontent.com/mariinkys/macro-ttt/main/preview.gif)
+![MacroTTT Gameplay](https://github.com/mariinkys/macro-ttt/blob/main/preview.gif)
 
 ## 🚀 Quick Start
 
