@@ -7,7 +7,9 @@ A implementation of the classic Tic-Tac-Toe game built with Rust and the Macroqu
 
 ## 🎥 Preview
 
-![MacroTTT Gameplay](https://github.com/mariinkys/macro-ttt/blob/main/preview.gif)
+<p align="center">
+  <img src="https://github.com/mariinkys/macro-ttt/blob/main/preview.gif" alt="MacroTTT Gameplay" width="360">
+</p>
 
 ## 🚀 Quick Start
 
